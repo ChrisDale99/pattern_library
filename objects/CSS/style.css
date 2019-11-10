@@ -42,11 +42,18 @@ h3 {font-size: 1.414em;
     margin: 1.5em 0;
 }
 
-blockquote{
+.blockquote1{
     font-size:1.414em;
     hanging-punctuation: first;
     text-indent: -0.45em;
-    color: orange;
+    color: maroon;
+}
+
+.blockquote2{
+    font-size:1.414em;
+    hanging-punctuation: first;
+    text-indent: -0.45em;
+    color: darkblue;
 
 }
 
