@@ -12,11 +12,11 @@ The CSS folder contains: style.css
 
 # Objects links:
 
-[Color] ()
+[Color] (https://chrisdale99.github.io/pattern_library/objects/color.html)
 
-[Head]
+[Head] (https://chrisdale99.github.io/pattern_library/objects/head.html)
 
-[typography]
+[typography] (https://chrisdale99.github.io/pattern_library/objects/typography.html)
 
 # Components links:
 
