@@ -20,7 +20,11 @@ The CSS folder contains: style.css
 
 # Components links:
 
+[nav links] (https://chrisdale99.github.io/pattern_library/components/nav-links.html)
+
 # CSS links:
+
+[CSS styling] (https://chrisdale99.github.io/pattern_library/CSS/style.css)
 
 
 
